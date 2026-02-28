@@ -3,6 +3,8 @@
 ## 📌 Project Summary
 This project implements a fully automated CI/CD pipeline using Jenkins, Docker, AWS Elastic Container Registry (ECR), and AWS EC2.
 
+![alt text](<Untitled (5).gif>)
+
 Whenever new code is pushed to GitHub, Jenkins automatically:
 
 1. Pulls the code
